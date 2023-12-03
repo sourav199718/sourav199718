@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+[![MasterHead](https://camo.githubusercontent.com/ce68b2fdf74b20a2e80ee6cbe96c4bed95da29cae1825c749e854c67ddc35e9e/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)
 <h1 align="center">Hi 👋, I'm SOURAV LALA</h1>
 <h3 align="center">Enthusiastic data science learner from India, keen on mastering skills to turn data into valuable insights. Eager to contribute and grow within the dynamic field of data analytics. Committed to continuous learning and making a positive impact on projects.</h3>
 
