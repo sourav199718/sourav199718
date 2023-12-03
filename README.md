@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SOURAV LALA</h1>
 <h3 align="center">Enthusiastic data science learner from India, keen on mastering skills to turn data into valuable insights. Eager to contribute and grow within the dynamic field of data analytics. Committed to continuous learning and making a positive impact on projects.</h3>
 
-<img align = "left"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align = "left"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 200px; height: 150px; overflow: hidden; border: 2px solid #000;">
 
 
 # 💻 Tech Stack:
